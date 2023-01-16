@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/homewprkk-6r/static/css/main.f01c2723.css",
+    "main.js": "/homewprkk-6r/static/js/main.12ea363a.js",
+    "index.html": "/homewprkk-6r/index.html",
+    "main.f01c2723.css.map": "/homewprkk-6r/static/css/main.f01c2723.css.map",
+    "main.12ea363a.js.map": "/homewprkk-6r/static/js/main.12ea363a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f01c2723.css",
+    "static/js/main.12ea363a.js"
+  ]
+}
